@@ -2,4 +2,4 @@ site_name: CJH
 site_url: https://github.com/chenjh726/chenjh726.github.io/settings
 site_author: chenjh726
 theme:
- name: mkdocs
+ name: material

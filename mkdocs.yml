@@ -1,6 +1,7 @@
 site_name: CJH
 site_url: https://github.com/chenjh726/chenjh726.github.io/settings
 site_author: chenjh726
+
 theme:
  name: material
  features:
@@ -9,5 +10,12 @@ theme:
  palette:
   primary: indigo
   accent: indigo
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      linenums: true
+  - pymdownx.superfences
+
 extra_css:
   - styles/title_color.css

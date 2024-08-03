@@ -8,4 +8,6 @@ theme:
  language: zh
  palette:
   primary: indigo
-  accent: light blue
+  accent: indigo
+extra_css:
+  - styles/title_color.css

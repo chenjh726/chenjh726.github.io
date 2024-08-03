@@ -6,5 +6,5 @@ theme:
  features:
   - content.code.copy
 plugins:
-  - search
-  - blog
+ - search
+ - blog

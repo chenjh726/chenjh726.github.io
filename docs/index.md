@@ -1,3 +1,0 @@
-# Home
-
-welcome to CJH

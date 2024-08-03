@@ -7,5 +7,4 @@ theme:
   - content.code.copy
 plugins:
  - search
- - blog :
-    path : blog
+ - blog

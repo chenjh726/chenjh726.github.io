@@ -6,3 +6,6 @@ theme:
  features:
   - content.code.copy
  language: zh
+ palette:
+  primary: indigo
+  accent: light blue

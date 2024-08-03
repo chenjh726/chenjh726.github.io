@@ -16,6 +16,3 @@ markdown_extensions:
       anchor_linenums: true
       linenums: true
   - pymdownx.superfences
-
-extra_css:
-  - styles/title_color.css

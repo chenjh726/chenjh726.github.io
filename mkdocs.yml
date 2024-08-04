@@ -13,9 +13,6 @@ theme:
 
 plugins:
   - social
-    - name: Github
-      icon: github
-      link: https://github.com/chenjh726/chenjh726.github.io
 
 markdown_extensions:
   - pymdownx.highlight:

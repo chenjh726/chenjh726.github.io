@@ -11,12 +11,14 @@ theme:
   primary: indigo
   accent: indigo
 
+plugins:
+  - glightbox
+
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
       linenums: true
   - pymdownx.superfences
-
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji

@@ -11,6 +11,9 @@ theme:
   primary: indigo
   accent: indigo
 
+plugins:
+  - social
+
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true

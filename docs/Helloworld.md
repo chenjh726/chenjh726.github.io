@@ -10,7 +10,6 @@ int main(){
 }
 ```
 
-{% if page.meta.comments %}
   <h2 id="__comments">{{ lang.t("meta.comments") }}</h2>
   <script src="https://giscus.app/client.js"
         data-repo="chenjh726/chenjh726.github.io"
@@ -63,4 +62,3 @@ int main(){
       })
     })
   </script>
-{% endif %}

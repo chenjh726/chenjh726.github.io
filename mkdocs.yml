@@ -11,9 +11,10 @@ theme:
   primary: indigo
   accent: indigo
 
-
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
       linenums: true
   - pymdownx.superfences
+
+  - attr_list

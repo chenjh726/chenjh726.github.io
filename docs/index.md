@@ -2,6 +2,8 @@
 
 welcome to CJH
 
+[:octicons-logo-github-16:](https://github.com/chenjh726/chenjh726.github.io){ .md-button }
+
 <script src="https://giscus.app/client.js"
     data-repo="chenjh726/chenjh726.github.io"
     data-repo-id="R_kgDOMeZntw"

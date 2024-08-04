@@ -9,7 +9,7 @@ int main(){
     return 0;
 }
 ```
-[:octicons-logo-github-16:](){ .md-button }
+[Github :octicons-logo-github-16:](https://github.com/chenjh726/chenjh726.github.io){ .md-button }
 
 <script src="https://giscus.app/client.js"
     data-repo="chenjh726/chenjh726.github.io"

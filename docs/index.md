@@ -1,8 +1,11 @@
 # Home
+<div style="text-align: center;">
 
-welcome to CJH
+## welcome to CJH
+
 
 [Github](https://github.com/chenjh726/chenjh726.github.io){ .md-button }
+</div>
 
 <script src="https://giscus.app/client.js"
     data-repo="chenjh726/chenjh726.github.io"

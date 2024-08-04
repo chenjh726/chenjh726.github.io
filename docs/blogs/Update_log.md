@@ -1,5 +1,11 @@
 # 更新日志
 
+## 2024.8.4
+1. 新增评论功能(使用giscus)。
+2. 主页新增Github按钮，可以点击跳转到博客项目的github页面。
+3. 将docs划分为blogs(博客)和notes(笔记)。
+4. notes新增笔记Shortest_path(最短路模版)。
+
 ## 2024.8.3
 1. 在docs文件夹新建Helloword.md文件，加入代码块。
 2. 在mkdocs.yml-theme-features配置content.code.copy，为代码块添加复制功能。

@@ -1,5 +1,9 @@
 # 更新日志
 
+## 2024.8.5
+1. notes新增HTML文件夹(用于更新HTML学习笔记)。
+2. HTML新增1-Overview_of_HTML笔记。
+
 ## 2024.8.4
 1. 新增评论功能(使用giscus)。
 2. 主页新增Github按钮，可以点击跳转到博客项目的github页面。

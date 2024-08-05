@@ -4,7 +4,7 @@
 
 本文给出适应不同问题条件的最短路算法模版(cpp语法)，包括[朴素Dijkstra算法](#1)，[堆优化dijkstra算法](#2)，[Bellman-Ford算法](#3)，[SPFA算法](#4)([求最短路](#4.1)和[判断负环](#4.2))和[Floyd算法](#5)。文中题目均来源于[acwing](https://www.acwing.com/)。
 下图为选择最短路算法的基本思路：
-![p1](p1.png)
+![Shortest_path_1](Shortest_path_1.png)
 
 ## 朴素Dijkstra算法 {#1}
 

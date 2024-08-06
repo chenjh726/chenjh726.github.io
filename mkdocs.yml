@@ -4,7 +4,6 @@ site_author: chenjh726
 
 theme:
  name: material
- favicon: thinking.png
  features:
   - content.code.copy
  language: zh
